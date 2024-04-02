@@ -5,7 +5,7 @@ const movies = [
     studio: 'Disney',
     worldwideGross: 2797800564
   },
-  {
+  { 
     title: 'The Lion King',
     studio: 'Disney',
     worldwideGross: 1656556149
